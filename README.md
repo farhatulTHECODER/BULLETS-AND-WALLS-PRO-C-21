@@ -1,2 +1,2 @@
-# BULLETS-AND-WALLS-PRO-C-21
-DETECTING THE DAMAGE OF THE BULLET
+# p5.play-boilerplate
+Boiler plate for p5.play
